@@ -90,19 +90,19 @@ Me chamo Isabela Bento, tenho 19 anos e sou natural de Minas Gerais. Atualmente,
 
 ---
 
-### 📊 Estatísticas
+## 📊 Estatísticas do GitHub
 
 <p align="center">
   <img 
     alt="GitHub Stats" 
-    height="200" 
-    style="max-width: 100%;" 
-    src="https://github-readme-stats.vercel.app/api?username=isabelabnto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&card_width=420" 
+    width="49%" 
+    height="195px" 
+    src="https://github-readme-stats.vercel.app/api?username=isabelabnto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   <img 
     alt="GitHub Top Langs" 
-    height="200"
-    style="max-width: 100%;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelabnto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&card_width=320&include_all_commits=true&count_private=false" 
+    width="49%" 
+    height="195px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelabnto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&include_all_commits=true&count_private=false" 
   />
 </p>
